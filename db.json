@@ -1,0 +1,24 @@
+{
+"products" : [
+{"id":1,"name":"Badger, american","category":"Auckland"},
+{"id":2,"name":"Pampa gray fox","category":"Spinke"},
+{"id":3,"name":"Bee-eater, carmine","category":"Letchford"},
+{"id":4,"name":"Gull, pacific","category":"Bofield"},
+{"id":5,"name":"Brown pelican","category":"Tedorenko"},
+{"id":6,"name":"Owl, snowy","category":"Carwardine"},
+{"id":7,"name":"Wallaby, euro","category":"Jevons"},
+{"id":8,"name":"Desert tortoise","category":"Kennea"},
+{"id":9,"name":"Screamer, crested","category":"Longlands"},
+{"id":10,"name":"White-lipped peccary","category":"Kynastone"},
+{"id":11,"name":"Osprey","category":"Rollo"},
+{"id":12,"name":"Red-tailed phascogale","category":"O'Lyhane"},
+{"id":13,"name":"Rhinoceros, black","category":"Iorillo"},
+{"id":14,"name":"Cape fox","category":"Meron"},
+{"id":15,"name":"Stork, yellow-billed","category":"Ship"},
+{"id":16,"name":"Bird (unidentified)","category":"Dalley"},
+{"id":17,"name":"Potoroo","category":"Danes"},
+{"id":18,"name":"Otter, cape clawless","category":"Sommerled"},
+{"id":19,"name":"Penguin, fairy","category":"Fairtlough"},
+{"id":20,"name":"Jackal, black-backed","category":"Wildman"}
+]
+}
